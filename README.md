@@ -42,6 +42,9 @@ Image-Classification-with-PyTorch---CIFAR-10/
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
 ├── .gitignore              # Files to ignore in the repository
+├── plot/
+│   ├── training_loss.png   # Training loss visualization
+
 
 
 Results
